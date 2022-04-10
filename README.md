@@ -7,3 +7,5 @@ The goal is to understand if they should implement this new page, keep the old p
 - Part II - A/B Test
 - Part III - Regression
 - Final Check
+### Datasets
+https://drive.google.com/file/d/16A8eJwWapO3JvcAjdXJyJ4b2adNBvokh/view?usp=sharing
